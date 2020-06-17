@@ -1,2 +1,3 @@
 # Git_tutorial
-##  develop�̕ύX
+## develop�̕ύX
+## nishioka kazuki
